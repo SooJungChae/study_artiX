@@ -16,5 +16,23 @@ https://github.com/SooJungChae/study_artiX/blob/master/20190306.md
 - **윤석** [Update security best practice in Express](https://github.com/hannut91/TIL/commit/8b5949d8811754b15333cf41c12706d589c1bda9)
 - **수정** Adobe XD 로 리액트 프로젝트 프로토타입 제작
 
+### 2019-03-12 (화)
+https://github.com/SooJungChae/study_artiX/blob/master/20190312.md
+- **완재** 자동매매 프로그램 제작 (그래프 그리기)
+- **근환** docker 외부에서 열었음. 포스트그레 디비 건드림
+- **수정** 정당한 사치 프로토타입 제작
 
+### 2019-03-20 (수)
+https://github.com/SooJungChae/study_artiX/blob/master/20190320.md
+- **윤석** nuxt.js & 서버사이드 렌더링
+- **진영** vue 컴포넌트 복습 & props 공부
+- **경진** 트렌드 공부 (material design)
+- **근환** 텍스트 에디터
+- **수정** 일정 정하는 사이트 개발
 
+### 2019-03-26 (화)
+https://github.com/SooJungChae/study_artiX/blob/master/20190326.md
+- **윤석** express 보안
+- **진영** 쇼핑몰 만들기
+- **근환** 텍스트 에디터
+- **수정** 일정 정하는 사이트 개발
