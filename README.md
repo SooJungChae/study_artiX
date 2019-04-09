@@ -36,3 +36,10 @@ https://github.com/SooJungChae/study_artiX/blob/master/20190326.md
 - **진영** 쇼핑몰 만들기
 - **근환** 텍스트 에디터
 - **수정** 일정 정하는 사이트 개발
+
+### 2019-04-09 (화)
+https://github.com/SooJungChae/study_artiX/blob/master/20190409.md
+- **윤석** API 보안
+- **진영** javascript 배열
+- **근환** 텍스트 에디터 기능 추가 & 버그수정
+- **수정** meetupday firebase 연동
