@@ -43,3 +43,11 @@ https://github.com/SooJungChae/study_artiX/blob/master/20190409.md
 - **진영** javascript 배열
 - **근환** 텍스트 에디터 기능 추가 & 버그수정
 - **수정** meetupday firebase 연동
+
+### 2019-04-16 (화)
+https://github.com/SooJungChae/study_artiX/blob/master/20190416.md
+- **윤석** https, 인증서
+- **진영** javascript 객체
+- **근환** 머신러닝 공부
+- **수정** meetupday firebase 데이터 저장, 카카오톡 로그인 정보 불러오기 작업 중
+- **선종** '알고리즘이 욕망하는 것' 독서
